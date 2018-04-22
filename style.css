@@ -1,0 +1,37 @@
+.head{
+    color: lightgray;
+    margin-top: 100px;
+    
+}
+
+body{
+    background-color: darkgrey
+}
+
+table{
+    width:50px;
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+tr{
+    border-bottom: 1px solid #cbcbcb;
+    width: auto;
+}
+th{
+    font-size:  19px;
+    color: #6B8E23;
+}
+th, td{
+    border: 1px;
+    height: 30px;
+    padding:  10px;
+}
+tbody tr:hover{
+    background: lightgrey;
+}
+a {
+    width: auto;
+    padding: 10px;
+}
+
+
